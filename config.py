@@ -1,4 +1,3 @@
-'''
 # ******************** BASIC SETTINGS ***************
 # These are the MUST BE SET parameters!
 
