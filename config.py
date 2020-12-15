@@ -3,7 +3,7 @@
 
 # This is the format: CENTRAL_WALLET = 'set_valid_addresss_in_config!'                # Local coin address where money goes
 CENTRAL_WALLET = 'D5cagVsvuSwXaLsgtoByc87H6kPXtMzkb6HFWAYVCsNnW1Az5XsEAcxbE1HgdoiSZSD4HdAAWUK7NC3y9MbwPMq5G3kibCF'                # Local coin address where money goes
-COINDAEMON_TRUSTED_HOST = 142.93.171.115
+COINDAEMON_TRUSTED_HOST = 163.47.10.66
 COINDAEMON_TRUSTED_PORT = 34414
 COINDAEMON_TRUSTED_USER = 'user'
 COINDAEMON_TRUSTED_PASSWORD = 'somepassword'
